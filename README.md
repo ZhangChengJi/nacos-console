@@ -960,7 +960,6 @@ public class Nacos {
 在src/main/resources文件夹下添加banner.txt。
 
 ```
-
          ,--.
        ,--.'|
    ,--,:  : |                                           Nacos ${application.version}
