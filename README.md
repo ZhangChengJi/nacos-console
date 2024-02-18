@@ -985,10 +985,10 @@ public class Nacos {
 
 界面：
 
-访问地址：http://192.168.0.29:8848/nacos/index.html#/login
+访问地址：[http://localhost:8848/nacos/index.html#/login](http://localhost:8848/nacos/index.html#/login)
 
 账号/密码：nacos/nacos
 
-![image-20240218181241351](https://gitee.com/zhangchengji/pic/raw/master/2024/image-20240218181241351.png)
+![image-20240218183804209](https://gitee.com/zhangchengji/pic/raw/master/2024/image-20240218183804209.png)
 
 附修改后工程地址：https://github.com/ZhangChengJi/nacos-console.git
