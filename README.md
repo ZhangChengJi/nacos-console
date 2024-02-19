@@ -989,6 +989,6 @@ public class Nacos {
 
 账号/密码：nacos/nacos
 
-![image-20240218183804209](https://gitee.com/zhangchengji/pic/raw/master/2024/image-20240218183804209.png)
+![image-20240219155724543](https://gitee.com/zhangchengji/pic/raw/master/2024/image-20240219155724543.png)
 
 附修改后工程地址：https://github.com/ZhangChengJi/nacos-console.git
